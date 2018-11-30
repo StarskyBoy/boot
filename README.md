@@ -4,7 +4,8 @@
 spring boot 启航。
 
 #### 软件架构
-软件架构说明
+1. boot-swagger2 接口管理
+2. boot-OAuth2.0-watchdog client管理小工具
 
 
 #### 安装教程
