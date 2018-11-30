@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.yuequan:watchdog-spring-boot-starter:0.8.1.BETA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/yuequan/watchdog-spring-boot-starter/0.8.1.BETA/watchdog-spring-boot-starter-0.8.1.BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/yuequan/watchdog-spring-boot-starter/0.8.1.BETA/watchdog-spring-boot-starter-0.8.1.BETA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/yuequan/watchdog-spring-boot-starter/0.8.1.BETA/watchdog-spring-boot-starter-0.8.1.BETA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

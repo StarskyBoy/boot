@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boot.iml" filepath="$PROJECT_DIR$/boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-OAuth2.0-watchdog/boot-OAuth2.0-watchdog.iml" filepath="$PROJECT_DIR$/boot-OAuth2.0-watchdog/boot-OAuth2.0-watchdog.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-swagger2/boot-swagger2.iml" filepath="$PROJECT_DIR$/boot-swagger2/boot-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-OAuth2.0-watchdog/watchdog-spring-boot-starter.iml" filepath="$PROJECT_DIR$/boot-OAuth2.0-watchdog/watchdog-spring-boot-starter.iml" />
     </modules>
   </component>
 </project>
